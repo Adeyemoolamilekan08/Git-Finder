@@ -15,3 +15,6 @@ A simple web application that allows users to search for GitHub profiles and vie
 - CSS
 - JavaScript
 - Axios for making HTTP requests to the GitHub API
+
+
+link to website: https://adeyemoolamilekan08.github.io/Git-Finder/
